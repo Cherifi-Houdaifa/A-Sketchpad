@@ -1,2 +1,2 @@
-# A-Sketchpad-
+# A-Sketchpad
 A Sketchpad for painting
